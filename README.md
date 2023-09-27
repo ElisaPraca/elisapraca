@@ -19,7 +19,7 @@
 <a href="https://instagram.com/daraelisapracca" target="_blank"><img src="https://img.shields.io/badge/-Instagram-B8860B?style=for-the-badge&logo=instagram&logoColor=white"</a>
   
 <a 
- href = "mailto:cmp.1a.daraelisac@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-B8860B?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ href = "mailto:daraelisac@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-B8860B?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://br.linkedin.com/in/dara-elisa-costa-pra%C3%A7a-8997431b1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-B8860B?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
  
